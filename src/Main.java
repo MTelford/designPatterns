@@ -35,7 +35,6 @@ public class Main {
         Integer result = function.apply(50);
         printer.accept(result.toString());
 
-
         List<String> myListOfStrings = new ArrayList<>();
         myListOfStrings.add("Alice");
         myListOfStrings.add("Bob");
